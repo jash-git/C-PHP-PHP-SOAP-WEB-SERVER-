@@ -1,0 +1,8 @@
+C:\Users\RD\Desktop\034_符合CS和PHP的PHP的SOAP專案\CS_CallPHPSOAP\CS_CallPHPSOAP\bin\Debug\CS_CallPHPSOAP.exe.config
+C:\Users\RD\Desktop\034_符合CS和PHP的PHP的SOAP專案\CS_CallPHPSOAP\CS_CallPHPSOAP\bin\Debug\CS_CallPHPSOAP.exe
+C:\Users\RD\Desktop\034_符合CS和PHP的PHP的SOAP專案\CS_CallPHPSOAP\CS_CallPHPSOAP\bin\Debug\CS_CallPHPSOAP.pdb
+C:\Users\RD\Desktop\034_符合CS和PHP的PHP的SOAP專案\CS_CallPHPSOAP\CS_CallPHPSOAP\obj\x86\Debug\CS_CallPHPSOAP.Form1.resources
+C:\Users\RD\Desktop\034_符合CS和PHP的PHP的SOAP專案\CS_CallPHPSOAP\CS_CallPHPSOAP\obj\x86\Debug\CS_CallPHPSOAP.Properties.Resources.resources
+C:\Users\RD\Desktop\034_符合CS和PHP的PHP的SOAP專案\CS_CallPHPSOAP\CS_CallPHPSOAP\obj\x86\Debug\CS_CallPHPSOAP.csproj.GenerateResource.Cache
+C:\Users\RD\Desktop\034_符合CS和PHP的PHP的SOAP專案\CS_CallPHPSOAP\CS_CallPHPSOAP\obj\x86\Debug\CS_CallPHPSOAP.exe
+C:\Users\RD\Desktop\034_符合CS和PHP的PHP的SOAP專案\CS_CallPHPSOAP\CS_CallPHPSOAP\obj\x86\Debug\CS_CallPHPSOAP.pdb
